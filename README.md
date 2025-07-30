@@ -1,83 +1,98 @@
-# 👨‍💻 Sidi Mohamed AHMED JIDDOU
+<h1 align="center">👋 Bonjour, je suis Sidi Mohamed AHMED JIDDOU</h1>
 
-📍 Nouakchott-Ouest, Mauritanie  
-📧 ahmedjiddou.sidimohamed@gmail.com  
-🌐 [Portfolio](#) | [GitHub](https://github.com/sidi-mohamed) | [LinkedIn](https://www.linkedin.com/in/sidi-mohamed)
-
----
-
-## 🎯 À propos de moi
-
-Passionné par la **recherche en intelligence artificielle**, je suis diplômé d’un **Master en Science des Données**.  
-J’ai développé de solides compétences en **machine learning**, **deep learning**, **traitement automatique du langage naturel (NLP)**, ainsi qu’en **web scraping**.  
-Je suis actuellement à la recherche d'opportunités pour approfondir mes connaissances et contribuer aux **avancées technologiques** dans le domaine de l’IA.
+<p align="center">
+  📍 Nouakchott-Ouest, Mauritanie <br>
+  📧 <a href="mailto:ahmedjiddou.sidimohamed@gmail.com">ahmedjiddou.sidimohamed@gmail.com</a> <br>
+  🌐 <a href="#">Portfolio</a> • 
+  <a href="https://github.com/sidi-mohamed">GitHub</a> • 
+  <a href="https://www.linkedin.com/in/sidi-mohamed">LinkedIn</a>
+</p>
 
 ---
 
-## 🛠️ Compétences techniques
+## 💡 À propos de moi
 
-- **Machine Learning & Deep Learning** : Text Mining, NLP, Image Mining  
-- **Langages de programmation** : Python, R  
-- **Web Scraping** : Scrapy  
-- **Bases de données** : MySQL, PostgreSQL, SQL  
-- **Frameworks et bibliothèques** :  
-  Django, Flask, TensorFlow, PyTorch, scikit-learn, OpenCV, NLTK, NumPy, Pandas
+🎓 Diplômé d’un **Master en Science des Données**, je suis passionné par la **recherche en intelligence artificielle**.  
+Je m'intéresse particulièrement au **machine learning**, **deep learning**, **traitement automatique du langage (NLP)** et **web scraping**.
+
+🚀 Je suis toujours à la recherche de nouveaux défis pour contribuer aux innovations dans le domaine de l’IA.
 
 ---
 
-## 📚 Parcours académique
+## 🧠 Compétences techniques
 
-- 🎓 Master 2 : Exploration Informatique des Données et Décisionnel  
+- 🧮 **Machine Learning & Deep Learning** : Text Mining, NLP, Image Mining  
+- 💻 **Langages de programmation** : Python, R  
+- 🔎 **Web Scraping** : Scrapy  
+- 🛢️ **Bases de données** : MySQL, PostgreSQL, SQL  
+- ⚙️ **Frameworks & Libraries** :  
+  Django, Flask, TensorFlow, LangChain, PyTorch, scikit-learn, OpenCV, NLTK, NumPy, Pandas
+
+---
+
+## 🧪 Projets en vedette
+
+Vous pouvez consulter mes projets dans mes **[repositories GitHub](https://github.com/sidi-mohamed?tab=repositories)** 🔍
+
+### 📌 Quelques exemples :
+
+- 📊 **Détection d’intrusion avec SVMSMOTE**  
+  Utilisation de la méthode SVMSMOTE pour équilibrer un jeu de données multi-classes et améliorer la détection d’intrusion.
+
+- 😃 **Analyse des sentiments en dialecte arabe marocain**  
+  Classification des sentiments via fine-tuning de BERT combiné à des algorithmes de machine learning.
+
+- 📄 **Discuter avec plusieurs fichiers PDF**  
+  Application interactive permettant aux utilisateurs de dialoguer avec des documents PDF via embeddings et NLP.
+
+
+---
+
+## 🎓 Formation académique
+
+- 🎓 **Master 2** – Exploration Informatique des Données  
   *Université Sorbonne Paris Nord (Paris XIII), France*
 
-- 🎓 Master 1 : Web Intelligence et Science des Données  
+- 🎓 **Master 1** – Web Intelligence & Science des Données  
   *Université Sidi Mohamed Ben Abdellah, Fès, Maroc*
 
-- 🎓 Licence en Informatique de Gestion  
+- 🎓 **Licence** – Informatique de Gestion  
   *ISCAE, Nouakchott, Mauritanie*
 
-- 🎓 Baccalauréat - Série Sciences  
+- 🎓 **Baccalauréat** – Sciences  
   *École Privée Al Rowad, Kiffa, Mauritanie*
 
 ---
 
-## 👨‍🔬 Projets
+## 💼 Expérience
 
-- **Détection d’intrusion avec SVMSMOTE**  
-  Mémoire de Master visant à améliorer la détection d’intrusions en utilisant SVMSMOTE pour équilibrer les classes et RFE pour la sélection des caractéristiques.
-
-- **Analyse des sentiments en dialecte arabe marocain**  
-  Utilisation de BERT fine-tuné et d’algorithmes de machine learning pour la classification de sentiments.
-
-- **Discuter avec plusieurs fichiers PDF**  
-  Application qui permet de dialoguer avec le contenu de fichiers PDF grâce à Streamlit, LangChain, FAISS et Transformers.
+- 👨‍💻 **Stagiaire Développement Web** – *ServiDiv Technologies, Nouakchott*  
+  ➤ Création d’une application de gestion pour une clinique privée.
 
 ---
 
-## 💼 Expérience professionnelle
+## 🏆 Certifications
 
-- **Stagiaire Développement Web** – ServiDiv Technologies, Nouakchott  
-  Développement d’une application de gestion pour une clinique privée.
-
----
-
-## 📜 Certifications
-
-- Intro to NLP for AI – *365 Data Science*  
-- Convolutional Neural Networks with TensorFlow – *365 Data Science*  
-- Certificat TensorFlow pour le Deep Learning – *LinkedIn Learning*  
-- Devenir Développeur Python – *LinkedIn Learning*
+- 📜 *Intro to NLP for AI* – 365 Data Science  
+- 📜 *Convolutional Neural Networks with TensorFlow* – 365 Data Science  
+- 📜 *TensorFlow pour le Deep Learning* – LinkedIn Learning  
+- 📜 *Devenir Développeur Python* – LinkedIn Learning
 
 ---
 
 ## 🌍 Langues
 
-- 🇲🇷 Arabe : Langue maternelle  
-- 🇫🇷 Français : Courant  
-- 🇬🇧 Anglais : Intermédiaire
+- 🗣️ Arabe : Langue maternelle  
+- 🗣️ Français : Courant  
+- 🗣️ Anglais : Intermédiaire
 
 ---
 
-## 📫 Contact
+## 🤝 Contact
 
-N'hésitez pas à me contacter pour toute collaboration, opportunité professionnelle.
+📬 N’hésitez pas à me contacter pour toute **collaboration**, **opportunité professionnelle**.  
+➡️ [ahmedjiddou.sidimohamed@gmail.com](mailto:ahmedjiddou.sidimohamed@gmail.com)
+
+---
+
+<p align="center">Merci de visiter mon profil 👋</p>
