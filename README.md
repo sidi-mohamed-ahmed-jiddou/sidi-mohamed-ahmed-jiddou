@@ -25,8 +25,7 @@ Je m'intéresse particulièrement au **machine learning**, **deep learning**, **
 - 💻 **Langages de programmation** : Python, R  
 - 🔎 **Web Scraping** : Scrapy  
 - 🛢️ **Bases de données** : MySQL, PostgreSQL, SQL  
-- ⚙️ **Frameworks & Libraries** :  
-  Django, Flask, TensorFlow, LangChain, PyTorch, scikit-learn, OpenCV, NLTK, NumPy, Pandas
+- ⚙️ **Frameworks & Libraries** :  Django, Flask, TensorFlow, LangChain, PyTorch, scikit-learn, OpenCV, NLTK, NumPy, Pandas
 
 ---
 
@@ -43,7 +42,7 @@ Vous pouvez consulter mes projets dans mes **[repositories GitHub](https://githu
   Classification des sentiments via fine-tuning de BERT combiné à des algorithmes de machine learning.
 
 - 📄 **Discuter avec plusieurs fichiers PDF**  
-  Application interactive permettant aux utilisateurs de dialoguer avec des documents PDF via embeddings et NLP.
+  Application interactive permettant aux utilisateurs d’interroger plusieurs fichiers PDF en langage naturel, en combinant une approche RAG (Retrieval-Augmented Generation) et des modèles LLM. Le système extrait le contenu des PDF, génère des embeddings vectoriels, puis interroge un LLM pour fournir des réponses pertinentes et contextualisées basées sur les documents.
 
 
 ---
@@ -90,7 +89,7 @@ Vous pouvez consulter mes projets dans mes **[repositories GitHub](https://githu
 
 ## 🤝 Contact
 
-📬 N’hésitez pas à me contacter pour toute **collaboration**, **opportunité professionnelle**.  
+📬 N’hésitez pas à me contacter pour toute **collaboration** ou **opportunité professionnelle**.  
 ➡️ [ahmedjiddou.sidimohamed@gmail.com](mailto:ahmedjiddou.sidimohamed@gmail.com)
 
 ---
