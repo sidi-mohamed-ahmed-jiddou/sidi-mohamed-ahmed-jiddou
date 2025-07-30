@@ -32,7 +32,7 @@ Je m'intéresse particulièrement au **machine learning**, **deep learning**, **
 
 ## 🧪 Projets en vedette
 
-Vous pouvez consulter mes projets dans mes **[repositories GitHub](https://github.com/sidi-mohamed?tab=repositories)** 🔍
+Vous pouvez consulter mes projets dans mes **[repositories GitHub](https://github.com/sidi-mohamed-ahmed-jiddou?tab=repositories)** 🔍
 
 ### 📌 Quelques exemples :
 
