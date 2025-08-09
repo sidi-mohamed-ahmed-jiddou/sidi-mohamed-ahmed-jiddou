@@ -3,7 +3,6 @@
 <p align="center">
   📍 Nouakchott-Ouest, Mauritanie <br>
   📧 <a href="mailto:ahmedjiddou.sidimohamed@gmail.com">ahmedjiddou.sidimohamed@gmail.com</a> <br>
-  🌐 <a href="https://sidi-mohamed-ahmed-jiddou.github.io/Sidi-Mohamed-Portfolio">Portfolio</a> •
   <a href="https://www.linkedin.com/in/sidi-mohamed">LinkedIn</a>
 </p>
 
