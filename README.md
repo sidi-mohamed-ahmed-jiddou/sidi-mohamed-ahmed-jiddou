@@ -43,10 +43,10 @@ Vous pouvez consulter mes projets dans mes **[repositories GitHub](https://githu
   Application interactive permettant aux utilisateurs d’interroger plusieurs fichiers PDF en langage naturel, en combinant une approche RAG (Retrieval-Augmented Generation) et des modèles LLM. Le système extrait le contenu des PDF, génère des embeddings vectoriels, puis interroge un LLM pour fournir des réponses pertinentes et contextualisées basées sur les documents.
 
 - 🛠️ **Pipeline Data Engineering – Scrapy, PostgreSQL, React**
-Conception d’un pipeline ETL complet : extraction de données à partir de sites web via Scrapy, transformation et nettoyage, puis chargement dans une base PostgreSQL. Développement d’une API REST avec Django et visualisation des données à travers une interface React.js.
+  Conception d’un pipeline ETL complet : extraction de données à partir de sites web via Scrapy, transformation et nettoyage, puis chargement dans une base PostgreSQL. Développement d’une API REST avec Django et visualisation des données à travers une interface React.js.
 
 - 📈 **Analyse des données IMDb avec Power BI**
-Création d’un tableau de bord interactif sur les données IMDb : exploration des genres dominants, des films les mieux notés, et de l’évolution des sorties par année. Utilisation de DAX pour des mesures personnalisées et visualisations dynamiques.
+  Création d’un tableau de bord interactif sur les données IMDb : exploration des genres dominants, des films les mieux notés, et de l’évolution des sorties par année. Utilisation de DAX pour des mesures personnalisées et visualisations dynamiques.
 
 
 ---
