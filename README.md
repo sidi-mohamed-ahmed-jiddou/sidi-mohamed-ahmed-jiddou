@@ -45,8 +45,8 @@ Vous pouvez consulter mes projets dans mes **[repositories GitHub](https://githu
 - 🛠️ **Pipeline Data Engineering – Scrapy, PostgreSQL, React**  
   Conception d’un pipeline ETL complet : extraction de données à partir de sites web via Scrapy, transformation et nettoyage, puis chargement dans une base PostgreSQL. Développement d’une API REST avec Django et visualisation des données à travers une interface React.js.
 
-- 📈 **Analyse des données IMDb avec Power BI**  
-  Création d’un tableau de bord interactif sur les données IMDb : exploration des genres dominants, des films les mieux notés, et de l’évolution des sorties par année. Utilisation de DAX pour des mesures personnalisées et visualisations dynamiques.
+- 📈 **Power BI – Suivi des stocks et ventes en pharmacie**  
+  Création d’un tableau de bord interactif avec Power BI pour analyser les ventes, le chiffre d’affaires, les seuils de stock et les alertes de commande. Utilisation de DAX pour des mesures personnalisées (CA, bénéfices, quantités vendues) et mise en place de filtres dynamiques (année, mode de paiement).
 
 
 ---
