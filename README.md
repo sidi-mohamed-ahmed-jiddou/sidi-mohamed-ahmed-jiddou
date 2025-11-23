@@ -23,7 +23,7 @@ Je m'intéresse particulièrement au **machine learning**, **deep learning**, **
 - 💻 **Langages de programmation** : Python, R  
 - 🔎 **Web Scraping** : Scrapy  
 - 🛢️ **Bases de données** : MySQL, PostgreSQL, SQL  
-- ⚙️ **Frameworks & Libraries** :  Django, Flask, TensorFlow, LangChain, PyTorch, scikit-learn, OpenCV, NLTK, NumPy, Pandas
+- ⚙️ **Frameworks & Libraries** :  Django, Flask, Next Js,TensorFlow, LangChain, PyTorch, scikit-learn, OpenCV, NLTK, NumPy, Pandas
 
 ---
 
