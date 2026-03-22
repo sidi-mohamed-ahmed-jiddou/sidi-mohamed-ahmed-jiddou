@@ -1,101 +1,65 @@
 <h1 align="center">👋 Bonjour, je suis Sidi Mohamed AHMED JIDDOU</h1>
 
 <p align="center">
-  📍 Nouakchott-Ouest, Mauritanie <br>
+  🚀 <b>Big Data Engineer @ Moov Mauritel</b> | Data Scientist | Full Stack Developer <br>
+  📍 Nouakchott, Mauritanie <br>
   📧 <a href="mailto:ahmedjiddou.sidimohamed@gmail.com">ahmedjiddou.sidimohamed@gmail.com</a> <br>
-  <a href="https://www.linkedin.com/in/sidi-mohamed">LinkedIn</a>
+  <a href="https://linkedin.com/in/sidi-mohamed-ahmed-jiddou">LinkedIn</a> | <a href="https://github.com/sidi-mohamed-ahmed-jiddou">GitHub</a>
 </p>
 
 ---
 
 ## 💡 À propos de moi
 
-🎓 Diplômé d’un **Master en Science des Données**, je suis passionné par la **recherche en intelligence artificielle**.  
-Je m'intéresse particulièrement au **machine learning**, **deep learning**, **traitement automatique du langage (NLP)** et **web scraping**.
+🎓 Diplômé d'un **Master en Exploration Informatique des Données (Sorbonne Paris Nord)**, je combine une expertise en **Ingénierie des Données** et en **Développement Web moderne**.
 
-🚀 Je suis toujours à la recherche de nouveaux défis pour contribuer aux innovations dans le domaine de l’IA.
+Actuellement **Big Data Engineer**, je conçois des solutions de traitement de données à grande échelle tout en développant des applications full-stack performantes. Passionné par l'écosystème **IA**, je m'intéresse particulièrement au **NLP**, au **Machine Learning** et à l'optimisation des architectures **Next.js**.
 
 ---
 
 ## 🧠 Compétences techniques
 
-- 🧮 **Machine Learning & Deep Learning** : Text Mining, NLP, Image Mining  
-- 💻 **Langages de programmation** : Python, R  
-- 🔎 **Web Scraping** : Scrapy  
-- 🛢️ **Bases de données** : MySQL, PostgreSQL, SQL  
-- ⚙️ **Frameworks & Libraries** :  Django, Flask, Next Js,TensorFlow, LangChain, PyTorch, scikit-learn, OpenCV, NLTK, NumPy, Pandas
+- 🧮 **Data Science & IA** : NLP (BERT, Fine-tuning), Deep Learning (CNN), Classification d'intrusion (SVMSMOTE), RAG (LangChain).
+- 💻 **Développement Full Stack** : TypeScript, **Next.js (App Router)**, React, Tailwind CSS.
+- ⚙️ **Backend & Ops** : Python (Django, Flask), PostgreSQL, Drizzle ORM, Docker, ETL (Scrapy).
+- 📊 **Analyse & Bio** : Pandas, NumPy, Matplotlib, Power BI, Analyse de données médicales (Endoscopie).
 
 ---
 
-## 🧪 Projets
+## 🧪 Projets Phares
 
-Vous pouvez consulter mes projets dans mes **[repositories GitHub](https://github.com/sidi-mohamed-ahmed-jiddou?tab=repositories)** 🔍
+### 🏗️ Pipeline Data Engineering & Web
+* **Pipeline ETL Complet** : Extraction via **Scrapy**, stockage **PostgreSQL**, API **Django** et interface **React**.
+* **Dashboard Admin Responsif** : Interface de gestion optimisée avec filtres avancés et recherche manuelle, conçu avec **Next.js** et **Tailwind CSS**.
 
-### 📌 Quelques exemples :
-
-- 📊 **Détection d’intrusion avec SVMSMOTE**  
-  Utilisation de la méthode SVMSMOTE pour équilibrer un jeu de données multi-classes et améliorer la détection d’intrusion.
-
-- 😃 **Analyse des sentiments en dialecte arabe marocain**  
-  Classification des sentiments via fine-tuning de BERT combiné à des algorithmes de machine learning.
-
-- 📄 **Discuter avec plusieurs fichiers PDF**  
-  Application interactive permettant aux utilisateurs d’interroger plusieurs fichiers PDF en langage naturel, en combinant une approche RAG (Retrieval-Augmented Generation) et des modèles LLM. Le système extrait le contenu des PDF, génère des embeddings vectoriels, puis interroge un LLM pour fournir des réponses pertinentes et contextualisées basées sur les documents.
-
-- 🛠️ **Pipeline Data Engineering – Scrapy, PostgreSQL, React**  
-  Conception d’un pipeline ETL complet : extraction de données à partir de sites web via Scrapy, transformation et nettoyage, puis chargement dans une base PostgreSQL. Développement d’une API REST avec Django et visualisation des données à travers une interface React.js.
-
-- 📈 **Power BI – Suivi des stocks et ventes en pharmacie**  
-  Création d’un tableau de bord interactif avec Power BI pour analyser les ventes, le chiffre d’affaires, les seuils de stock et les alertes de commande. Utilisation de DAX pour des mesures personnalisées (CA, bénéfices, quantités vendues) et mise en place de filtres dynamiques (année, mode de paiement).
-
+### 🤖 Intelligence Artificielle & NLP
+* **Chat PDF (RAG)** : Application interactive utilisant **LangChain** et **FAISS** pour interroger des documents en langage naturel.
+* **Analyse de Sentiments** : Classification de dialectes arabes via fine-tuning de modèles **BERT**.
+* **Classification d'intrusion** : Optimisation de modèles de sécurité réseau (NSL-KDD) via **SVMSMOTE** et **RFE**.
 
 ---
 
-## 🎓 Formation académique
+## 💼 Expérience Professionnelle
 
-- 🎓 **Master 2** – Exploration Informatique des Données  
-  *Université Sorbonne Paris Nord (Paris XIII), France*
-
-- 🎓 **Master 1** – Web Intelligence & Science des Données  
-  *Université Sidi Mohamed Ben Abdellah, Fès, Maroc*
-
-- 🎓 **Licence** – Informatique de Gestion  
-  *ISCAE, Nouakchott, Mauritanie*
-
-- 🎓 **Baccalauréat** – Sciences  
-  *École Privée Al Rowad, Kiffa, Mauritanie*
+* **Big Data Engineer** — *Moov Mauritel* (Déc 2025 – Présent)  
+    ➤ Traitement de données massives et développement d'outils internes.
+* **Full Stack Developer** — *OISELECT* (Nov 2025 – Déc 2025)  
+    ➤ Développement Next.js et gestion d'état serveur avec **React Query**.
+* **Stagiaire Développeur** — *ServiDiv Technologies* ➤ Application de gestion clinique (Full Stack).
 
 ---
 
-## 💼 Expérience
+## 🎓 Formation
 
-- 👨‍💻 **Stagiaire Développement Web** – *ServiDiv Technologies, Nouakchott*  
-  ➤ Création d’une application de gestion pour une clinique privée.
-
----
-
-## 🏆 Certifications
-
-- 📜 *Intro to NLP for AI* – 365 Data Science  
-- 📜 *Convolutional Neural Networks with TensorFlow* – 365 Data Science  
-- 📜 *TensorFlow pour le Deep Learning* – LinkedIn Learning  
-- 📜 *Devenir Développeur Python* – LinkedIn Learning
+* 🎓 **Master 2** – Exploration Informatique des Données | *Univ. Sorbonne Paris Nord*
+* 🎓 **Master 1** – Web Intelligence & Science des Données | *Fès, Maroc*
+* 🎓 **Licence** – Informatique de Gestion | *ISCAE, Mauritanie*
 
 ---
 
-## 🌍 Langues
+## 🌍 Langues & Contact
 
-- 🗣️ Arabe : Langue maternelle  
-- 🗣️ Français : Courant  
-- 🗣️ Anglais : Intermédiaire
+* 🗣️ **Arabe** (Natif) | **Français** (Courant) | **Anglais** (Intermédiaire)
+* 📬 Une opportunité ou une collaboration ? Contactez-moi directement par mail !
 
----
-
-## 🤝 Contact
-
-📬 N’hésitez pas à me contacter pour toute **collaboration** ou **opportunité professionnelle**.  
-➡️ [ahmedjiddou.sidimohamed@gmail.com](mailto:ahmedjiddou.sidimohamed@gmail.com)
-
----
-
-<p align="center">Merci de visiter mon profil 👋</p>
+<p align="center"><b>Merci de visiter mon profil !</b> ✨</p>
